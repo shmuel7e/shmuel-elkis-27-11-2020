@@ -1,5 +1,5 @@
 import React from "react";
-import { Router, Switch, Route, Link } from "react-router-dom";
+import { HashRouter as Router, Switch, Route, Link } from "react-router-dom";
 import history from "./history";
 import Home from "./pages/Home";
 import Header from "../src/cmps/Header";
