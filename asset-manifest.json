@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/shmuel-elkis-27-11-2020/static/css/main.d1b0d591.chunk.css",
+    "main.js": "/shmuel-elkis-27-11-2020/static/js/main.2f60df8a.chunk.js",
+    "main.js.map": "/shmuel-elkis-27-11-2020/static/js/main.2f60df8a.chunk.js.map",
+    "runtime-main.js": "/shmuel-elkis-27-11-2020/static/js/runtime-main.cdc3ee23.js",
+    "runtime-main.js.map": "/shmuel-elkis-27-11-2020/static/js/runtime-main.cdc3ee23.js.map",
+    "static/css/2.89946ceb.chunk.css": "/shmuel-elkis-27-11-2020/static/css/2.89946ceb.chunk.css",
+    "static/js/2.c8ea942a.chunk.js": "/shmuel-elkis-27-11-2020/static/js/2.c8ea942a.chunk.js",
+    "static/js/2.c8ea942a.chunk.js.map": "/shmuel-elkis-27-11-2020/static/js/2.c8ea942a.chunk.js.map",
+    "index.html": "/shmuel-elkis-27-11-2020/index.html",
+    "precache-manifest.70a73c7cdfae849ee0c59fda04b63ff8.js": "/shmuel-elkis-27-11-2020/precache-manifest.70a73c7cdfae849ee0c59fda04b63ff8.js",
+    "service-worker.js": "/shmuel-elkis-27-11-2020/service-worker.js",
+    "static/css/2.89946ceb.chunk.css.map": "/shmuel-elkis-27-11-2020/static/css/2.89946ceb.chunk.css.map",
+    "static/css/main.d1b0d591.chunk.css.map": "/shmuel-elkis-27-11-2020/static/css/main.d1b0d591.chunk.css.map",
+    "static/js/2.c8ea942a.chunk.js.LICENSE": "/shmuel-elkis-27-11-2020/static/js/2.c8ea942a.chunk.js.LICENSE",
+    "static/media/cloudy.jpg": "/shmuel-elkis-27-11-2020/static/media/cloudy.ae4b06bd.jpg",
+    "static/media/fog.jpg": "/shmuel-elkis-27-11-2020/static/media/fog.75add791.jpg",
+    "static/media/hazy.jpg": "/shmuel-elkis-27-11-2020/static/media/hazy.f98b234c.jpg",
+    "static/media/night.jpg": "/shmuel-elkis-27-11-2020/static/media/night.c47a77ea.jpg",
+    "static/media/overcast.jpg": "/shmuel-elkis-27-11-2020/static/media/overcast.5912ab73.jpg",
+    "static/media/shower.jpg": "/shmuel-elkis-27-11-2020/static/media/shower.6c7fa645.jpg",
+    "static/media/snow.jpg": "/shmuel-elkis-27-11-2020/static/media/snow.901e444c.jpg",
+    "static/media/spinner.png": "/shmuel-elkis-27-11-2020/static/media/spinner.8df8dd20.png",
+    "static/media/sunny.jpg": "/shmuel-elkis-27-11-2020/static/media/sunny.f8a9bc63.jpg",
+    "static/media/thunder.jpg": "/shmuel-elkis-27-11-2020/static/media/thunder.e41c1866.jpg",
+    "static/media/windy.jpg": "/shmuel-elkis-27-11-2020/static/media/windy.277cffb8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdc3ee23.js",
+    "static/css/2.89946ceb.chunk.css",
+    "static/js/2.c8ea942a.chunk.js",
+    "static/css/main.d1b0d591.chunk.css",
+    "static/js/main.2f60df8a.chunk.js"
+  ]
+}
