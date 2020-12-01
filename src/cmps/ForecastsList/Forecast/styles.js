@@ -22,4 +22,7 @@ export const Forecast = css`
   div:first-child {
     margin-bottom: 7px;
   }
+  div:nth-child(4) {
+    max-width: 117px;
+  }
 `;

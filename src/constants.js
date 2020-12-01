@@ -6,7 +6,7 @@ export const THEME = Object.freeze({
 });
 
 export const API = Object.freeze({
-  KEY: "O9AFzM6d6HAnPRzuuq1XvGAsCdGNMMgh",
+  KEY: "yPu77kXYByuhCrrRLTdrrNqPQmJKi1WO",
 });
 
 export const THEME_COLOR = Object.freeze({

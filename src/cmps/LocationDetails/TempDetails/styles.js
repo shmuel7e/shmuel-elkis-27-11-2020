@@ -26,7 +26,11 @@ export const TempDetails = css`
   }
   div:nth-child(5) {
     font-size: 1.4rem;
+    @media (max-width: 500px) {
+      font-size: 1.2rem;
+    }
   }
+
   @media (max-width: 780px) {
     margin-right: initial;
     margin-left: initial;
