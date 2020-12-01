@@ -2,9 +2,7 @@ import history from '../history';
 import Axios from 'axios';
 
 
-const BASE_URL = process.env.NODE_ENV === 'production'
-    ? '/api/'
-    : 'https://dataservice.accuweather.com/'
+const BASE_URL = 'https://dataservice.accuweather.com/';
 
 
 var axios = Axios.create({
