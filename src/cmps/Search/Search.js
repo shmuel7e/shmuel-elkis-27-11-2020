@@ -58,7 +58,7 @@ const Search = styled(({className, getCity, setCurrCity, getCurrentConditions, g
     };
 
     const isFavoriteScreen = () =>{
-      if (window.location.pathname === '/favorites') return true;
+      if (window.location.href.includes('/favorites')) return true;
       else return false;
     }
 

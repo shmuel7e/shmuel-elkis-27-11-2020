@@ -6,7 +6,7 @@ export const THEME = Object.freeze({
 });
 
 export const API = Object.freeze({
-  KEY: "yPu77kXYByuhCrrRLTdrrNqPQmJKi1WO",
+  KEY: "oAtuZFIyzrtd9lgMm2fGQx25Jk7jzzQf",
 });
 
 export const THEME_COLOR = Object.freeze({
@@ -97,4 +97,4 @@ export const forecastPropTypeShape = {
 };
 
 export const forecastPropType = PropTypes.shape(forecastPropTypeShape);
-// my original key oAtuZFIyzrtd9lgMm2fGQx25Jk7jzzQf //
+
